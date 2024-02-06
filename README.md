@@ -45,18 +45,19 @@ Future projects will blossom 🌸, fo' sho'.
 
 ## 🛠️ Currently working on:
 
-Another Full Stack demo project to showcase the other half of my skillset, namely a SQL database and Redux state management. Gonna be pretty sweet. 😎
+A language learning app which will help non-native English speakers better understand how to use the parts of speech (nouns, pronouns, adverbs, prepositions, etc). It will be whimsical and engaging. I plan to showcase more of my skillset by using a PostgreSQL database, Redux, internationalization, and natural language processing. 😎
 
 ## 🕵️‍♂️ What I'm looking for:
 
 - A Full Stack position where I can contribute my skills and learn new tools and technologies like DevOps, Cloud, weaving if need be!
 - Open Source opportunities to help the community to continue providing the tools we all use.
+- CompTIA and AWS certification to become more well-rounded (and a troubleshooting genius).
 - I genuinely enjoy learning, so anything that gives me an excuse to get stuck into some new docs, I'm looking for!
 
 ## 🤔 Some (debatably) interesting things:
 
 - 🈵 I can read and write 2200 Japanese characters. 大変だったな〜
-- 🧪 I once wrote around 6000 lines of testing code for a [project](https://github.com/Thomas-J-A/FakeMates/tree/main) where I first learnt about testing. To this day they give me faith in that API! 😍
+- 🐑 My favourite animal is either a sheep, a mole, or a toad (still haven't decided).
 - 😱 Incredible bonus fact: 一回狸を見たことがあります。
 
 ## 📫 Contact me:
