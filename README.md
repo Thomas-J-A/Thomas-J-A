@@ -26,6 +26,10 @@ Future projects will blossom 🌸, fo' sho'.
 - Fishing rod
 - Tractor
 
+## 📜 Certifications:
+
+[![AWS Certified Cloud Practitioner](./assets/aws-certified-cloud-practitioner(1).png)](https://www.credly.com/badges/5b7dd3ae-41d0-46c0-91be-6844f6362a6d/public_url)
+
 ## 💭 My ethos:
 
 - 📚 Continuous learning, academic or otherwise
