@@ -18,7 +18,7 @@ Future projects will blossom 🌸, fo' sho'.
 
 - TypeScript, React, Node.js, Python, Jest, Cypress, Vite, CSS
 - MongoDB, PostgreSQL, GraphQL, REST
-- Git, GitHub, Docker, CI/CD, Linux, LLMs, AI
+- Git, GitHub, Docker, CI/CD, Linux, LLMs, AI/ML
 
 ## 🔴 Tools I cannot:
 
@@ -29,6 +29,7 @@ Future projects will blossom 🌸, fo' sho'.
 ## 📜 Certifications:
 
 [![AWS Certified Cloud Practitioner](./assets/aws-certified-cloud-practitioner(1).png)](https://www.credly.com/badges/5b7dd3ae-41d0-46c0-91be-6844f6362a6d/public_url)
+[![AWS Certified AI Practitioner](./assets/aws-certified-ai-practitioner(1).png)](https://www.credly.com/badges/8e0d9a26-ed2c-4982-bd82-ab5054b21e38/public_url)
 
 ## 💭 My ethos:
 
