@@ -47,7 +47,7 @@ Future projects will blossom 🌸, fo' sho'.
 ## 🤔 Some (debatably) interesting things:
 
 - 🈵 I can read and write 2200 Japanese characters. 大変だったな〜
-- 🐑 My favourite animal is either a turtle, a mole, or a toad (still haven't decided).
+- 🐢 My favourite animal is either a turtle, a mole, or a toad (still haven't decided).
 - 😱 Incredible bonus fact: 一回狸を見たことがあります。
 
 ## 📫 Contact me:
