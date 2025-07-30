@@ -16,9 +16,9 @@ Future projects will blossom 🌸, fo' sho'.
 
 ## 🟢 Tools I can be trusted with:
 
-- TypeScript, React, Node.js, Jest, Cypress, Vite, CSS
+- TypeScript, React, Node.js, Python, Jest, Cypress, Vite, CSS
 - MongoDB, PostgreSQL, GraphQL, REST
-- Git, GitHub, Docker, CI/CD, Linux
+- Git, GitHub, Docker, CI/CD, Linux, LLMs, AI
 
 ## 🔴 Tools I cannot:
 
@@ -26,9 +26,7 @@ Future projects will blossom 🌸, fo' sho'.
 - Fishing rod
 - Tractor
 
-## 💭 My ethe\*:
-
-\*The plural of ethos, apparently - always learning 😎
+## 💭 My ethos:
 
 - 📚 Continuous learning, academic or otherwise
 - 🌍 Working hollistically across domains to find solutions
@@ -37,34 +35,21 @@ Future projects will blossom 🌸, fo' sho'.
 ## 🎨 Outside of tech I enjoy:
 
 - 🗣️ Natural languages
-- 🏃‍♂️ Running and calisthenics
-- ❄️ Cold baths
-- 📚 Reading non-fiction (tech and philosophy mainly, at the risk of sounding pretentious 😅)
-
-**Non tech-related goal:** 🤸‍♂️ freestanding handstand pushup (_then_ I will be cool!)
-
-## 🛠️ Currently working on:
-
-A language learning app which will help non-native English speakers better understand how to use the parts of speech (nouns, pronouns, adverbs, prepositions, etc). It will be whimsical and engaging. I plan to showcase more of my skillset by using a PostgreSQL database, Redux, internationalization, and natural language processing. 😎
-
-## 🕵️‍♂️ What I'm looking for:
-
-- A Full Stack position where I can contribute my skills and learn new tools and technologies like DevOps, Cloud, weaving if need be!
-- Open Source opportunities to help the community to continue providing the tools we all use.
-- CompTIA and AWS certification to become more well-rounded (and a troubleshooting genius).
-- I genuinely enjoy learning, so anything that gives me an excuse to get stuck into some new docs, I'm looking for!
+- 🏃‍♂️ Cardio and calisthenics
+- 📚 Reading non-fiction
+- ⛰️ Nature and the Outdoors
 
 ## 🤔 Some (debatably) interesting things:
 
 - 🈵 I can read and write 2200 Japanese characters. 大変だったな〜
-- 🐑 My favourite animal is either a sheep, a mole, or a toad (still haven't decided).
+- 🐑 My favourite animal is either a turtle, a mole, or a toad (still haven't decided).
 - 😱 Incredible bonus fact: 一回狸を見たことがあります。
 
 ## 📫 Contact me:
 
 **Note:** I do not currently respond to postcards.
 
-I'd love an email sent to [tomaspbury@icloud.com](mailto:tomaspbury@icloud.com) 🥲
+I'd love an email sent to [tomaspbury@icloud.com](mailto:tomaspbury@icloud.com).
 
 ## 📜 Finally, I leave you with this wonderful adage:
 
